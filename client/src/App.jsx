@@ -8,7 +8,7 @@ export default function App() {
   const [active, setActive] = useState("dawnmc");
 
   useEffect(() => {
-    axios.get("http://localhost:5000/api/modpacks")
+    axios.get(import.meta.env.VITE_API_URL + "/api/modpacks")
       .then(res => setData(res.data));
   }, []);
 
