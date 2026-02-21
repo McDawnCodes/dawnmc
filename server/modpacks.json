@@ -1,0 +1,27 @@
+{
+  "dawnmc": {
+    "name": "DawnMC",
+    "version": "2.3.1",
+    "minecraft": "1.20.1",
+    "size": "1.9GB",
+    "description": "Flagship cinematic progression modpack with custom bosses, dimensions and late-game tech.",
+    "download": "/downloads/dawnmc.zip"
+  },
+  "lightspeed": {
+    "name": "Lightspeed",
+    "version": "1.4.0",
+    "minecraft": "1.20.1",
+    "size": "420MB",
+    "description": "Extreme optimization build. 200+ FPS focused lightweight experience.",
+    "download": "/downloads/lightspeed.zip"
+  },
+  "minigames": [
+    { "name": "DeathSwap", "download": "/downloads/deathswap.zip" },
+    { "name": "Minecraft Bingo", "download": "/downloads/bingo.zip" },
+    { "name": "Speedrunning Kit", "download": "/downloads/speedrun.zip" },
+    { "name": "Bedwars", "download": "/downloads/bedwars.zip" },
+    { "name": "Skywars", "download": "/downloads/skywars.zip" },
+    { "name": "Murder Mystery", "download": "/downloads/murder.zip" },
+    { "name": "Hide and Seek", "download": "/downloads/hidenseek.zip" }
+  ]
+}
